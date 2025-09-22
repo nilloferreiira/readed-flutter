@@ -20,23 +20,23 @@ Aplicação Flutter para gerenciamento de livros e autores, com cadastro de usu�
 - [x] Detalhes do livro
 - [x] Cadastro de autor
 - [x] Lista de autores
-- [ ] Perfil do usuário
-- [ ] Tela "Sobre"
+- [x] Perfil do usuário
+- [x] Tela "Sobre"
 
 ---
 
 ## 📂 Estrutura de Telas
 
-- `about_screen.dart` → Tela sobre
-- `add_author_screen.dart` → Cadastro de autor
+- `about_screen.dart` → Tela sobre o app ✅
+- `add_author_screen.dart` → Cadastro de autor ✅
 - `add_book_screen.dart` → Cadastro de livro ✅
-- `authors_list_screen.dart` → Lista de autores
+- `authors_list_screen.dart` → Lista de autores ✅
 - `book_details_screen.dart` → Detalhes do livro ✅
 - `books_list_screen.dart` → Lista de livros ✅
 - `edit_book_screen.dart` → Edição de livro ✅
 - `login_screen.dart` → Login ✅
 - `register_user_screen.dart` → Cadastro de usuário ✅
-- `user_profile_screen.dart` → Perfil do usuário
+- `user_profile_screen.dart` → Perfil do usuário ✅
 
 ---
 
@@ -50,11 +50,6 @@ Atualmente concluído:
 - Edição de livro
 - Lista de livros
 - Detalhes do livro
-
-Próximas etapas:
-
-- Implementar cadastro e listagem de autores
-- Criar tela de perfil do usuário
-- Finalizar tela "Sobre"
-
----
+- Tela "Sobre"
+- Perfil do usuário
+- Cadastro e listagem de autores
