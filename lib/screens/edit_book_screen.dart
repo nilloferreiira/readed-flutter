@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// ...existing code...
 import '../providers/author_provider.dart';
 import 'package:provider/provider.dart';
 import '../models/book.dart';
